@@ -1,12 +1,13 @@
 {
   "Policies": [
     {
-      "id": "1",
       "no": "02777",
       "status": "onHold ",
       "heading": "Policy Two",
       "description": "Some kind of short description go here to better explain the...",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2025-11-01",
+      "id": "1"
     },
     {
       "id": "2",
@@ -14,7 +15,8 @@
       "status": "Active",
       "heading": "Policy One",
       "description": "Some kind of short description go here to better explain the...",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2023-11-12"
     },
     {
       "id": "3",
@@ -22,7 +24,8 @@
       "status": "Active",
       "heading": "Policy Second",
       "description": "Some kind of short description go here to better explain the...",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2023-11-12"
     },
     {
       "id": "4",
@@ -30,7 +33,8 @@
       "status": "Active",
       "heading": "Policy One",
       "description": "Some kind of short description go here to better explain the...",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2023-11-12"
     },
     {
       "id": "5",
@@ -38,7 +42,8 @@
       "status": "Active",
       "heading": "Policy One",
       "description": "Some kind of short description go here to better explain the...",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2023-11-12"
     },
     {
       "id": "2d1e",
@@ -46,7 +51,8 @@
       "heading": "Policy form",
       "status": "Active ",
       "description": "adfadf",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
+      "users": ["Sourav", "Mayank", "Mulberri"],
+      "date": "2023-11-12"
     },
     {
       "id": "47f3",
@@ -54,38 +60,8 @@
       "heading": "Policy form",
       "status": "Active ",
       "description": "safasdf",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
-    },
-    {
-      "id": "e2e4",
-      "no": "3001",
-      "heading": "Policy form",
-      "status": "Active ",
-      "description": "adfadf",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberri"]
-    },
-    {
-      "no": "3001",
-      "heading": "adfadf",
-      "status": "Active",
-      "description": "adfadf",
-      "id": "edf1",
-      "users": ["Sourav", "Mayank", "Jaanvi", "Mulberrii"]
-    },
-    {
-      "no": "500",
-      "heading": "Uses Addedd",
-      "status": "Active",
-      "description": "This is for the purpose of adding multiple users",
-      "id": "dfe6"
-    },
-    {
-      "no": "5000",
-      "heading": "Policy Two",
-      "status": "Active",
-      "description": "This is for the testing of the users",
-      "users": ["sourav", "khan"],
-      "id": "8f4c"
+      "users": ["Mulberri"],
+      "date": "2023-11-12"
     }
   ]
 }
